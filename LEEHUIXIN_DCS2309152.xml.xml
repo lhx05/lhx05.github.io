@@ -1,0 +1,72 @@
+<List>
+<My Company>
+<staff>
+  <Name>LEE HUI XIN</Name>
+  <Age>18</Age>
+  <Gender>Female</Gender>
+  <Department>Beauty DepartmentBeauty Department</Department>
+</staff>
+
+<staff>
+  <Name>FONG GUO YU</Name>
+  <Age>18</Age>
+  <Gender>MALE</Gender>
+  <Department>Finance</Department>
+</staff>
+
+<staff>
+  <Name>LEONG KE YIN</Name>
+  <Age>18</Age>
+  <Gender>FEMALE</Gender>
+  <Department>Beauty Department</Department>
+</staff>
+
+<staff>
+  <Name>AH BEN BEN</Name>
+  <Age>20</Age>
+  <Gender>MALE</Gender>
+  <Department>Cleaning Department</Department>
+</staff>
+
+<staff>
+  <Name>CHEONG KAI XUAN</Name>
+  <Age>18</Age>
+  <Gender>FEMALE</Gender>
+  <Department>Beauty Department</Department>
+</staff>
+
+<staff>
+  <Name>TANG JIA LUN</Name>
+  <Age>18</Age>
+  <Gender>MALE</Gender>
+  <Department>Cleaning Department</Department>
+</staff>
+
+<staff>
+  <Name>TANG ZI YANG</Name>
+  <Age>18</Age>
+  <Gender>MALE</Gender>
+  <Department>Catering Department</Department>
+</staff>
+
+<staff>
+  <Name>LEAN JIA JING</Name>
+  <Age>19</Age>
+  <Gender>MALE</Gender>
+  <Department>Catering Department</Department>
+</staff>
+
+<staff>
+  <Name>CHIN KAH CHUN</Name>
+  <Age>19</Age>
+  <Gender>MALE</Gender>
+  <Department>Cleaning Department</Department>
+</staff>
+
+<staff>
+  <Name>NG YU XUAN</Name>
+  <Age>18</Age>
+  <Gender>Female</Gender>
+  <Department>Beauty Department</Department>
+</staff>
+</List>
