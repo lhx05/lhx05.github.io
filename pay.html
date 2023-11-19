@@ -1,0 +1,158 @@
+<html><head><title>Form - Text Input</title>
+<link rel=icon href=beauty.jpg type=image/jpg>
+<meta name=viewport content=width=device-width, initial-scale=1.0>
+
+<style>
+body{
+background-color=white
+color:#696969;font-family:verdana;
+font-size:100%;
+text-align:center;
+width:80%;height:50%;
+}
+
+th{
+color:gray;
+padding:15px;
+background:oldlace;
+width:fit-content;
+font-family:cursive;
+text-align:center;
+font-size:110%
+}
+
+td{
+padding:15px;
+background:white;
+width:fit-content;
+font-family:cursive;
+text-align:center;
+font-size:150%
+}
+
+table{
+color:balck;
+padding:15px;
+background:white;
+width:fit-content;
+font-family:cursive;
+text-align:center;
+font-size:110%
+}
+
+caption{
+color:blue;
+background:cyan;
+width:fit-content;
+font-family:cursive;
+text-align:center;
+font-size:400%
+}
+
+font{font-weight:bold;}
+
+p.special{line-height:150%;border-style:double;}
+
+
+</style>
+
+
+</head>
+<body topmargin=80>
+<center><form>
+<table border=0>
+<caption>Pay</caption>
+
+<tr>
+<th>Address:</td>
+<td rowspan=1><textarea rows=4 cols=30 name=address></textarea></td>
+</tr>
+
+<tr>
+<th>PhoneNumber:</td>
+<td rowspan=1><textarea rows=4 cols=30 name=phone_number></textarea></td>
+</tr>
+
+<tr>
+<th>Email:</td>
+<td rowspan=1><textarea rows=4 cols=30 name=address></textarea></td>
+</tr>
+
+<tr>
+<td>&nbsp</td>
+</tr>
+
+<tr>
+<th>Freight</th>
+<td>1kg-RM5</td>
+<td>10kg-Rm35</td>
+</tr>
+
+<tr>
+<th>Payment:</td>
+<td><select><option value="0">-List of payment-</option>
+
+<optgroup label="Online Banking">
+<option value="AmBank">AmBank</option>
+<option value="MayBank">MayBank</option>
+<option value="Public Bank">Public Bank</option>
+<option value="CIMB Bank">CIMB Bank</option>
+<option value="Hong Leong Bank">Hong Leong Bank</option>
+<option value="RHB Bank">RHB Bank</option>
+</optgroup>
+
+<option value="Touch&Go">Touch&Go</option>
+<option value="Credit/Debit Card">Credit/Debit Card</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td></td>
+</tr>
+
+<tr>
+<th>Order Notes:</td>
+<td rowspan=1><textarea rows=4 cols=30 name=address></textarea></td>
+</tr>
+
+<tr>
+<th>Product</th>
+<td><img src=ysl.jpg></td>
+<td><img src=ys.jpg></td>
+<td><img src=barbie.jpg></td>
+<td><img src=yuguigou.jpg></td>
+</tr>
+
+<tr>
+<th>Total Freight</th>
+<td>2kg-RM10</td>
+</tr>
+
+
+<tr>
+<th>Promo Code</th>
+<td rowspan=1><textarea rows=4 cols=30 name=address></textarea></td>
+</tr>
+
+<tr>
+<th>Total Product Price</th>
+<td>RM139 x1 +
+RM156 x1 +
+RM199 x1 +
+RM289 x1</td>
+</tr>
+
+<tr>
+<td></td>
+<td>=RM793</td>
+</tr>
+
+<tr>
+<td></td>
+<td><input type=submit value=Submit>
+<input type=reset value=Reset></td>
+</tr>
+</table>
+</center></form>
+</body></html>
